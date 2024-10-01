@@ -6,7 +6,7 @@
 
 This repository provides a simple guide on how to run the [YOLO11](https://docs.ultralytics.com/models/yolo11/) object detection model locally. YOLO11 improves on previous versions with faster inference times and enhanced accuracy, making it ideal for real-time applications like object tracking, image segmentation, and pose estimation.
 
-By following the steps below, you’ll be able to set up the environment, load an image, and run YOLOv11 to detect objects in your chosen images.
+By following the steps below, you’ll be able to set up the environment, load an image, and run YOLO11 to detect objects in your chosen images.
 
 ## How to Run
 
