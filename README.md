@@ -1,15 +1,17 @@
 # YOLO11: Run the Latest Real-time Object Detection Model Locally
 
+![Cover Image](https://github.com/Brianhulela/yolov11_object_detection/blob/master/images/cover.jpg)
+
 ## Overview
 
-This repository provides a simple guide on how to run the ![YOLO11](https://docs.ultralytics.com/models/yolo11/) object detection model locally. YOLO11 improves on previous versions with faster inference times and enhanced accuracy, making it ideal for real-time applications like object tracking, image segmentation, and pose estimation.
+This repository provides a simple guide on how to run the [YOLO11](https://docs.ultralytics.com/models/yolo11/) object detection model locally. YOLO11 improves on previous versions with faster inference times and enhanced accuracy, making it ideal for real-time applications like object tracking, image segmentation, and pose estimation.
 
 By following the steps below, you’ll be able to set up the environment, load an image, and run YOLOv11 to detect objects in your chosen images.
 
 ## How to Run
 
 ### 1. Create a Virtual Environment
-Before running the YOLO11 model, create a Python virtual environment to manage the required dependencies. If you're unfamiliar with virtual environments, please check my ![virtual environment tutorial](https://medium.com/@brianhulela/how-python-virtual-environments-transformed-my-coding-workflow-b116457db157).
+Before running the YOLO11 model, create a Python virtual environment to manage the required dependencies. If you're unfamiliar with virtual environments, please check my [virtual environment tutorial](https://medium.com/@brianhulela/how-python-virtual-environments-transformed-my-coding-workflow-b116457db157).
 
 Once you have created and activated the virtual environment, install the required library with the following command:
 
@@ -18,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Download and Load an Image
-After setting up your environment, you'll need an image to run object detection on. You can either use an image of your choice or download one from a free image source such as ![Unsplash](https://unsplash.com/). 
+After setting up your environment, you'll need an image to run object detection on. You can either use an image of your choice or download one from a free image source such as [Unsplash](https://unsplash.com/). 
 
 Use any image loading tool (like OpenCV) to load the image into your script.
 
